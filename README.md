@@ -1,5 +1,8 @@
 # dvc-rawfile
+*We have compressed it because it occupies about 60MB, but the test is against the unzipped file (214089_JAI.raw)*
+
 The RAW file inside the tar.gz has a md5sum
+
 fd0de1350b92b00d60afd53b015f6aea  214089_JAI.raw
 
 But DVC calculates it as 
